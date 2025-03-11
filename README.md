@@ -2,6 +2,10 @@
 
 This is an implementation of the Model Context Protocol (MCP) that integrates with Google's Gemini API to provide analytical thinking capabilities without code generation.
 
+<a href="https://glama.ai/mcp/servers/q8pdxnf129">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/q8pdxnf129/badge" alt="Gemini Thinking Server MCP server" />
+</a>
+
 ## Overview
 
 The Gemini Thinking Server is a specialized MCP server that leverages Google's Gemini model to provide sequential thinking and problem-solving capabilities. It allows for:
